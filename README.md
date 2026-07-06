@@ -43,6 +43,8 @@ opengraph.jpg   Social share preview image
 assets/         Illustrations (couple, garden, ganesha, gallery images)
 ```
 
+
+
 ## Event details
 
 Sunday, 19 July 2026, 9:00 AM — Rajput Samaj Bhavan, Kharwani Poll Darwaja, Wadhwan, Surendranagar.
