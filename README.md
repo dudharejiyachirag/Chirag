@@ -34,6 +34,7 @@ npx serve .
 ## File structure
 
 ```
+
 index.html      Main page markup
 style.css       All styling (palette, layout, animations)
 script.js       All interactivity (Three.js scenes, Lenis, GSAP, countdown, tilt)
